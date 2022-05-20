@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.light-blue {
+    background-color: lightblue;
+}
+
+.box {
+    width: 25px;
+    height: 25px;
+    margin: 10px auto;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
